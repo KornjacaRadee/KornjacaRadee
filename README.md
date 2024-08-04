@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hello, I'm Milorad Djurica 👋
 
-<!--
-**KornjacaRadee/KornjacaRadee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://www.linkedin.com/in/milorad-djurica-148227269/)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating amazing user experiences. Here's a little more about me and some of my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🔭 I’m currently waiting for inspiration for a new project
+- 🌱 I’m learning [Angular/Java]
+- 📫 How to reach me: [djuricamilorad11@gmail.com](mailto:djuricamilorad11@gmail.com)
+
+## 🚀 Skills
+
+- **Languages:** JavaScript, TypeScript, Go, Java
+- **Front-end:** Angular, HTML, CSS, Bootstrap, JavaScript
+- **Back-end:** Java, Go
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools & Technologies:** Git, Docker
+
+## 💼 Featured Projects
+
+### [🌐 Project One](https://github.com/KornjacaRadee/AirBNB-mockup)
+![Project One](https://link-to-image.com/image.png)
+
+Mockup of the AirBNB web application. We have created an accommodation renting web application with Go for the backend and Angular for the backend.
+
+### [📱 Project Two](https://github.com/KornjacaRadee/kvt2023)
+![Project Two](https://github.com/KornjacaRadee/kvt2023)
+
+My first Angular project, a Twitter clone, social media in Angular.
+
+### [🔧 Project Three](https://github.com/KornjacaRadee/svt2023)
+![Project Three]([https://link-to-image.com/image.png](https://github.com/KornjacaRadee/svt2023))
+
+Backend for a Twitter social media created in Java.
+
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about tech.
