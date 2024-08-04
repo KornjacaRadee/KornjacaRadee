@@ -1,6 +1,6 @@
 # Hello, I'm Milorad Djurica 👋
 
-[![LinkedIn](https://www.linkedin.com/in/milorad-djurica-148227269/)
+[LinkedIn](https://github.com/KornjacaRadee/kvt2023)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating amazing user experiences. Here's a little more about me and some of my projects.
 
@@ -21,17 +21,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## 💼 Featured Projects
 
 ### [🌐 Project One](https://github.com/KornjacaRadee/AirBNB-mockup)
-![Project One](https://link-to-image.com/image.png)
 
 Mockup of the AirBNB web application. We have created an accommodation renting web application with Go for the backend and Angular for the backend.
 
 ### [📱 Project Two](https://github.com/KornjacaRadee/kvt2023)
-![Project Two](https://github.com/KornjacaRadee/kvt2023)
 
 My first Angular project, a Twitter clone, social media in Angular.
 
 ### [🔧 Project Three](https://github.com/KornjacaRadee/svt2023)
-![Project Three]([https://link-to-image.com/image.png](https://github.com/KornjacaRadee/svt2023))
 
 Backend for a Twitter social media created in Java.
 
