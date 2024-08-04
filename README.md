@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🌟 About Me
 
-- 🔭 I’m currently waiting for inspiration for a new project
+- 🔭 I’m currently looking for inspiration for a next project
 - 🌱 I’m learning [Angular/Java]
 - 📫 How to reach me: [djuricamilorad11@gmail.com](mailto:djuricamilorad11@gmail.com)
 
