@@ -1,36 +1,74 @@
 # Hello, I'm Milorad Djurica 👋
 
-[LinkedIn](https://github.com/KornjacaRadee/kvt2023)
+[LinkedIn](https://www.linkedin.com/in/milorad-djurica-148227269)
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating amazing user experiences. Here's a little more about me and some of my projects.
+Welcome to my GitHub profile! I'm a full-stack developer focused on building scalable web applications, automation systems, and practical tools that solve real-world problems.
 
 ## 🌟 About Me
 
-- 🔭 I’m currently looking for inspiration for a next project
-- 🌱 I’m learning [Angular/Java]
+- 🔭 Currently exploring ideas for my next project (automation, AI tools, Web apps)
+- 🛠️ Building and deploying real-world systems (web apps, APIs, scraping pipelines, infrastructure)
+- 🌍 Experience working on international projects and delivering full-stack features end-to-end
 - 📫 How to reach me: [djuricamilorad11@gmail.com](mailto:djuricamilorad11@gmail.com)
 
 ## 🚀 Skills
 
-- **Languages:** JavaScript, TypeScript, Go, Java
-- **Front-end:** Angular, HTML, CSS, Bootstrap, JavaScript
-- **Back-end:** Java, Go
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Tools & Technologies:** Git, Docker
+- **Front-end:** React, Next.js, Angular, TypeScript  
+- **Back-end:** Java (Spring Boot), Go  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **DevOps & Tools:** Docker, Linux, Nginx, Git, REST APIs  
+- **Other:** Web scraping, automation workflows, API integrations  
 
 ## 💼 Featured Projects
 
-### [🌐 Project One](https://github.com/KornjacaRadee/AirBNB-mockup)
+### 📚 [EPUB Translate](https://github.com/KornjacaRadee/epub-translate)
 
-Mockup of the AirBNB web application. We have created an accommodation renting web application with Go for the backend and Angular for the backend.
+A tool for translating EPUB books using AI.  
+Includes chunking strategies, preprocessing pipelines, and translation optimization for large texts.
 
-### [📱 Project Two](https://github.com/KornjacaRadee/kvt2023)
+- Handles large files efficiently with smart chunking
+- Supports multiple translation engines (OpenAI, Google, etc.)
+- Focus on balancing cost, speed, and translation quality
+- Designed for real-world usage (not just demos)
 
-My first Angular project, a Twitter clone, social media in Angular.
+---
 
-### [🔧 Project Three](https://github.com/KornjacaRadee/svt2023)
+### 📱 [Angular Twitter Clone](https://github.com/KornjacaRadee/kvt2023)
 
-Backend for a Twitter social media created in Java.
+My first Angular project — a social media platform inspired by Twitter.
 
+- User authentication and posting system
+- Feed rendering and interactions
+- Frontend-focused project to learn Angular fundamentals
 
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about tech.
+---
+
+### 🔧 [Java Backend for Social Platform](https://github.com/KornjacaRadee/svt2023)
+
+Backend system for a social media platform built with Java.
+
+- REST API architecture
+- Database integration
+- Designed to support scalable frontend applications
+
+---
+
+## 🧠 What I Like Working On
+
+- Building full-stack applications from scratch  
+- Designing clean APIs and backend systems  
+- Automating workflows and reducing manual work  
+- Working with Docker and self-hosted infrastructure  
+- Experimenting with AI tools and practical use cases  
+
+---
+
+## ⚡ Current Focus
+
+- AI-powered applications (translation, scraping, processing)  
+- Improving DevOps and deployment workflows  
+- Building scalable and maintainable systems  
+
+---
+
+Thanks for visiting my profile!  
