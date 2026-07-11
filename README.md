@@ -21,6 +21,15 @@ Welcome to my GitHub profile! I'm a full-stack developer focused on building sca
 
 ## 💼 Featured Projects
 
+
+### 📋 [My quick menu](https://myquickmenu.app/)
+
+My Quick Menu Restaurant is a web SaaS for creating and managing digital QR menus.
+Owners manage a restaurant profile, categories, menu items, translations, templates, and QR assets.
+Guests open the public menu in a browser at /r/{restaurant-slug} without installing an app or creating an account.
+
+---
+
 ### 📚 [EPUB Translate](https://github.com/KornjacaRadee/epub-translate)
 
 A tool for translating EPUB books using AI.  
